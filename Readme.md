@@ -1,8 +1,8 @@
-#Lyrics
 
-#Description
+# Description
 A simple website that only displays three Island Reggae Artist
 
-#Deployed Site
+# Deployed Site
 
 [Lyric Website](https://ashrean.github.io/Lyrics/)
+
